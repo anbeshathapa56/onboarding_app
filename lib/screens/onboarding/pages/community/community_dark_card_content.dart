@@ -15,7 +15,7 @@ class CommunityDarkCardContent extends StatelessWidget {
           child: Icon(
             Icons.brush,
             color: kWhite,
-            size: 32.0,
+            size: 31.0,
           ),
         ),
         Padding(
